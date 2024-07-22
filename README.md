@@ -16,10 +16,3 @@ App to detect skin cancer.
 
 ## Screenshots
 ![cancermerge](https://github.com/wahyuandhikarizaldi/Cancer-Detection-App/assets/113814423/457c44a0-55a7-4dff-afe2-be5a7902f488)
-
-
-## Getting Started
-1. Clone this repository
-2. Open the Project in your Android Studio
-3. Run the Project in your Android Studio
-   
